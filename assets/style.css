@@ -1,0 +1,49 @@
+
+
+.bg-dark.weather-header {
+	background: linear-gradient(to left, #194894, #5a749e);
+}
+
+.current-column {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.btn.search-button {
+	background-color: #97b6e8;
+	width: 250px;
+	height: 30px;
+	margin-top: 10px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.weather-search {
+	height: 40px;
+}
+
+.current-row {
+	border:#194894 solid 2px;
+	width: 100%;
+	height: 180px;
+}
+
+h3 {
+	margin-top: 15px;
+}
+
+.forecast-row {
+	justify-content: space-between;
+	width: 100%;
+}
+
+.card {
+	height: 200px;
+	background-color: #363c5e;
+	color: white;
+}
+
+
+
